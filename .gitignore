@@ -36,3 +36,6 @@ build/
 
 # Jupyter (futuro)
 .ipynb_checkpoints/
+
+# Programa e Dados Referência
+ref_DNSBenchmark/
